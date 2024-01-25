@@ -49,4 +49,6 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=07Shivamsahu&layout=compact)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/07Shivamsahu?theme=default&font=baloo&extension=null)
+[![Shivam's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=07Shivamsahu)](https://leetcode.com/07Shivamsahu/)
+
+[![Shivam's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=itssahu07)](https://auth.geeksforgeeks.org/user/itssahu07)
