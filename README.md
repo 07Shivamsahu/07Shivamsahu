@@ -48,3 +48,5 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 [![GitHub Streak](https://streak-stats.demolab.com/?user=07Shivamsahu)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=07Shivamsahu&layout=compact)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/07Shivamsahu?theme=default&font=baloo&extension=null)
